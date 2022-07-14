@@ -13,15 +13,15 @@
 
 
   # Description
-  a simple app to generate a professional readme file quickly
+  a simple app to generate a professional README file
 
 
   # Usage
-  n/a
+  run in node.js
 
 
   # Installation
-  n/a
+  
 
 
   # License
@@ -29,14 +29,14 @@
 
 
   # Contribution Guidelines
-  n/a
+  
 
 
   # Tests
-  no
+  
 
 
   # Questions/Contact Me
   - GitHub User Name: krsparks2
   - GitHub Repository: krsparks2
-  - Email: krsparks2@yahoo.com
+  - Email: 

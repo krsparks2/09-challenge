@@ -72,11 +72,6 @@ const questions = [
     },  
     {
         type: 'input',
-        message: "Installation instructions",
-        name: 'installation'
-    },  
-    {
-        type: 'input',
         message: "Contribution Guidelines",
         name: 'contribution'
     }, 
