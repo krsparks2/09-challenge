@@ -56,9 +56,14 @@ const questions = [
     },    
     {
         type: 'list',
-        message: "If needed describe the steps required to install your project for the Installation section.",
+        message: "License",
         name: 'license',
         choices: ['MIT', 'GNU_GPLv3', 'Mozilla_Public_License_2.0', 'Apache', 'n/a']
+    },   
+    {
+        type: 'input',
+        message: "Installation Instructions",
+        name: 'installation',
     },  
     {
         type: 'input',

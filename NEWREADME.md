@@ -1,26 +1,42 @@
 
-  # README Generator
+  # README file generator
+
+
   # Table of Contents
-  - [description](#description)
+  - [Description](#description)
   - [usage](#usage)
   - [Installation](#installation)
   - [license](#license)
   - [contribution](#contribution)
   - [tests](#tests)
   - [Questions/Contact Me](#Questions)
+
+
   # Description
-  A Professional README Generator
+  a simple app to generate a professional readme file quickly
+
+
   # Usage
-  Run index.js in node
+  n/a
+
+
   # Installation
-  none
+  n/a
+
+
   # License
   n/a
+
+
   # Contribution Guidelines
-  none
+  n/a
+
+
   # Tests
   no
+
+
   # Questions/Contact Me
-  krsparks2
-  github/krsparks2
-  krsparks2@yahoo.com
+  - GitHub User Name: krsparks2
+  - GitHub Repository: krsparks2
+  - Email: krsparks2@yahoo.com
